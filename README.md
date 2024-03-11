@@ -13,7 +13,7 @@ Follow these steps to install and run the calculator application locally:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/BasemYahia402/doctor_dashbord.git
+    git clone https://github.com/nkyada/doctor_dashbord.git
 
 2. Navigate to the project directory
 
